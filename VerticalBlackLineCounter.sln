@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VerticalBlackLineCounter", "VerticalBlackLineCounter.csproj", "{513178E4-251D-4457-8902-2E2DC6003701}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VerticalBlackLineCounter", "VerticalBlackLineCounter\VerticalBlackLineCounter.csproj", "{513178E4-251D-4457-8902-2E2DC6003701}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackLineCounterUsingInterface", "..\BlackLineCounterUsingInterface\BlackLineCounterUsingInterface.csproj", "{466D6933-9FCE-49F5-B982-F7ACA37D65CE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackLineCounterUsingInterface", "BlackLineCounterUsingInterface\BlackLineCounterUsingInterface.csproj", "{466D6933-9FCE-49F5-B982-F7ACA37D65CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
